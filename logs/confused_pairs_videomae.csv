@@ -1,0 +1,11 @@
+True_class,Predicted_as,Count
+cartwheel,flic_flac,2
+draw_sword,pour,1
+draw_sword,shoot_bow,1
+eat,wave,1
+fencing,brush_hair,1
+flic_flac,cartwheel,1
+flic_flac,handstand,1
+pick,wave,1
+ride_bike,climb_stairs,1
+shoot_gun,eat,1
